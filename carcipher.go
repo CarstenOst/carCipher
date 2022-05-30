@@ -18,7 +18,6 @@ func krypter(message []rune, krypterMed int) []rune {
 
 	}
 
-	fmt.Println(string(kryptertMelding))
 	return kryptertMelding
 }
 
